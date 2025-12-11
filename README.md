@@ -1,4 +1,4 @@
-# Streamlit Appointment Processor
+# **[Automated Appointment Tool](https://automated-appointment-tool.streamlit.app/)**
 ===========================
 
 A Streamlit-based application for processing appointment data from CSV files, matching it with patient information from an Excel file, and generating customized Excel reports split by provider (e.g., doctors). The app allows users to configure provider mappings dynamically and outputs a ZIP file containing individual reports and a processing summary.
